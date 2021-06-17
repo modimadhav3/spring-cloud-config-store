@@ -1,0 +1,7 @@
+# Server configs
+server:
+  port: 9080
+
+spring:
+  name: Hi, this my service application
+  id: 12344  

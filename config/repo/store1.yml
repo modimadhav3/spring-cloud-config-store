@@ -1,0 +1,7 @@
+# Server configs
+server:
+  port: 9081
+
+spring:
+  name: Hi This is Srevice1.yml
+  id: 4569
